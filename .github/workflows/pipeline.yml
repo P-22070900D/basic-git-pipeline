@@ -16,3 +16,4 @@ jobs:
       - name: Run echo
         run: echo "Pipeline executed successfully. 🎉"
              echo "My commits will show in file."
+             echo "These are new changes in the file."
